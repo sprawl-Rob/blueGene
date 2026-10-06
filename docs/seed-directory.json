@@ -1,0 +1,3946 @@
+{
+  "version": 3,
+  "entries": [
+    {
+      "id": "familysearch",
+      "name": "FamilySearch",
+      "url": "https://www.familysearch.org/en/search/",
+      "kind": "provider",
+      "provider": "",
+      "description": "FamilySearch",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "ancestry",
+      "name": "Ancestry Card Catalog",
+      "url": "https://www.ancestry.com/search/collections/catalog",
+      "kind": "provider",
+      "provider": "",
+      "description": "Ancestry Card Catalog",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.ancestry.com/search/collections/catalog",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "myheritage",
+      "name": "MyHeritage historical records",
+      "url": "https://www.myheritage.com/research",
+      "kind": "provider",
+      "provider": "",
+      "description": "MyHeritage historical records",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.myheritage.com/research",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "findmypast",
+      "name": "Findmypast",
+      "url": "https://www.findmypast.com/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Findmypast",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.findmypast.com/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "nara",
+      "name": "U.S. National Archives",
+      "url": "https://www.archives.gov/research/genealogy",
+      "kind": "provider",
+      "provider": "",
+      "description": "U.S. National Archives",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.archives.gov/research/genealogy",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "american-ancestors",
+      "name": "American Ancestors",
+      "url": "https://www.americanancestors.org/",
+      "kind": "provider",
+      "provider": "",
+      "description": "American Ancestors",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.americanancestors.org/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "findagrave",
+      "name": "Find a Grave",
+      "url": "https://www.findagrave.com/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Find a Grave",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.findagrave.com/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "blm",
+      "name": "Bureau of Land Management",
+      "url": "https://www.blm.gov/services/land-records/glo",
+      "kind": "provider",
+      "provider": "",
+      "description": "Bureau of Land Management",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.blm.gov/services/land-records/glo",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "loc",
+      "name": "Library of Congress",
+      "url": "https://www.loc.gov/collections/chronicling-america/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Library of Congress",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.loc.gov/collections/chronicling-america/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "newspaperarchive",
+      "name": "NewspaperArchive",
+      "url": "https://newspaperarchive.com/",
+      "kind": "provider",
+      "provider": "",
+      "description": "NewspaperArchive",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://newspaperarchive.com/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "dpla",
+      "name": "Digital Public Library of America",
+      "url": "https://dp.la/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Digital Public Library of America",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://dp.la/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "cyndi",
+      "name": "Cyndi’s List",
+      "url": "https://www.cyndislist.com/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Cyndi’s List",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.cyndislist.com/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "tna",
+      "name": "The National Archives — England & Wales",
+      "url": "https://www.nationalarchives.gov.uk/",
+      "kind": "provider",
+      "provider": "",
+      "description": "The National Archives — England & Wales",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.nationalarchives.gov.uk/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "freebmd",
+      "name": "FreeBMD",
+      "url": "https://www.freebmd.org.uk/",
+      "kind": "provider",
+      "provider": "",
+      "description": "FreeBMD",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.freebmd.org.uk/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "freecen",
+      "name": "FreeCEN",
+      "url": "https://www.freecen.org.uk/",
+      "kind": "provider",
+      "provider": "",
+      "description": "FreeCEN",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.freecen.org.uk/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "freereg",
+      "name": "FreeREG",
+      "url": "https://www.freereg.org.uk/",
+      "kind": "provider",
+      "provider": "",
+      "description": "FreeREG",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.freereg.org.uk/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "scotland",
+      "name": "Scotland’s People",
+      "url": "https://www.scotlandspeople.gov.uk/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Scotland’s People",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.scotlandspeople.gov.uk/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "irishgenealogy",
+      "name": "IrishGenealogy",
+      "url": "https://www.irishgenealogy.ie/",
+      "kind": "provider",
+      "provider": "",
+      "description": "IrishGenealogy",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.irishgenealogy.ie/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "ireland",
+      "name": "National Archives of Ireland",
+      "url": "https://nationalarchives.ie/",
+      "kind": "provider",
+      "provider": "",
+      "description": "National Archives of Ireland",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://nationalarchives.ie/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "canada",
+      "name": "Library and Archives Canada",
+      "url": "https://www.canada.ca/en/library-archives.html",
+      "kind": "provider",
+      "provider": "",
+      "description": "Library and Archives Canada",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.canada.ca/en/library-archives.html",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "trove",
+      "name": "Trove — Australia",
+      "url": "https://trove.nla.gov.au/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Trove — Australia",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://trove.nla.gov.au/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "nzlibrary",
+      "name": "National Library of New Zealand",
+      "url": "https://natlib.govt.nz/",
+      "kind": "provider",
+      "provider": "",
+      "description": "National Library of New Zealand",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://natlib.govt.nz/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "paperspast",
+      "name": "Papers Past",
+      "url": "https://paperspast.natlib.govt.nz/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Papers Past",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://paperspast.natlib.govt.nz/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "nzarchives",
+      "name": "Archives New Zealand",
+      "url": "https://www.archives.govt.nz/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Archives New Zealand",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.archives.govt.nz/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "norway",
+      "name": "Digitalarkivet — Norway",
+      "url": "https://www.digitalarkivet.no/en/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Digitalarkivet — Norway",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.digitalarkivet.no/en/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "archion",
+      "name": "Archion",
+      "url": "https://www.archion.de/en/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Archion",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.archion.de/en/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "matricula",
+      "name": "Matricula",
+      "url": "https://data.matricula-online.eu/en/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Matricula",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://data.matricula-online.eu/en/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "geneanet",
+      "name": "Geneanet",
+      "url": "https://en.geneanet.org/",
+      "kind": "provider",
+      "provider": "",
+      "description": "Geneanet",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://en.geneanet.org/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "jewishgen",
+      "name": "JewishGen",
+      "url": "https://www.jewishgen.org/",
+      "kind": "provider",
+      "provider": "",
+      "description": "JewishGen",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.jewishgen.org/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-index",
+      "name": "Historical record search",
+      "url": "https://www.familysearch.org/en/search/",
+      "kind": "guidance",
+      "provider": "familysearch",
+      "description": "Historical record search",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "name index"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-fulltext",
+      "name": "Full-Text Search",
+      "url": "https://www.familysearch.org/en/search/full-text",
+      "kind": "guidance",
+      "provider": "familysearch",
+      "description": "Full-Text Search",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "full text"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/full-text",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-catalog",
+      "name": "FamilySearch Catalog",
+      "url": "https://www.familysearch.org/en/search/catalog",
+      "kind": "guidance",
+      "provider": "familysearch",
+      "description": "FamilySearch Catalog",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "link checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/catalog",
+      "verification_scope": [
+        "link availability; no collection-level access validation"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-wiki",
+      "name": "FamilySearch Research Wiki",
+      "url": "https://www.familysearch.org/en/wiki/Main_Page",
+      "kind": "guidance",
+      "provider": "familysearch",
+      "description": "FamilySearch Research Wiki",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "guidance"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/wiki/Main_Page",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "fs-1928860",
+      "name": "Massachusetts, State Vital Records, 1638–1927",
+      "url": "https://www.familysearch.org/en/search/collection/1928860",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "Massachusetts, State Vital Records, 1638–1927",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1841,
+          1920
+        ],
+        [
+          1915,
+          1925
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "birth",
+        "marriage",
+        "death",
+        "vital"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "index",
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/collection/1928860",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Collection title includes 1638–1927, but official description specifies amendments 1841–1920 and births/marriages/deaths 1915–1925. Actual locality, year and image eligibility require inspection.",
+      "overlap_group": "ma-vitals",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-1463156",
+      "name": "Massachusetts Deaths, 1841–1915, 1921–1924",
+      "url": "https://www.familysearch.org/en/search/collection/1463156",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "Massachusetts Deaths, 1841–1915, 1921–1924",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1841,
+          1915
+        ],
+        [
+          1921,
+          1924
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "death",
+        "vital"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "index",
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/collection/1463156",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Gap 1916–1920 in stated title; image restrictions must be checked.",
+      "overlap_group": "ma-vitals",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-2106411",
+      "name": "Massachusetts Land Records, 1620–1986",
+      "url": "https://www.familysearch.org/en/search/collection/2106411",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "Massachusetts Land Records, 1620–1986",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1620,
+          1986
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "land",
+        "deed"
+      ],
+      "capabilities": [
+        "browse images"
+      ],
+      "evidence_forms": [
+        "index",
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": null,
+      "verification_source": "",
+      "verification_scope": [],
+      "link_health": "unknown",
+      "limitations": "Browsable collection; county and volume coverage needs verification.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-1542861",
+      "name": "New Hampshire, Birth Records, Early to 1900",
+      "url": "https://www.familysearch.org/en/search/collection/1542861",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "New Hampshire, Birth Records, Early to 1900",
+      "geography": [
+        "New Hampshire, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          null,
+          1900
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "birth",
+        "vital"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "index",
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/collection/1542861",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Index cards; assess the underlying record and informant.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-1520640",
+      "name": "New Hampshire, Marriage Records, 1637–1947",
+      "url": "https://www.familysearch.org/en/search/collection/1520640",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "New Hampshire, Marriage Records, 1637–1947",
+      "geography": [
+        "New Hampshire, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1637,
+          1947
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "marriage",
+        "vital"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "index",
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/collection/1520640",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-1784223",
+      "name": "Vermont, Vital Records, 1760–1954",
+      "url": "https://www.familysearch.org/en/search/collection/1784223",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "Vermont, Vital Records, 1760–1954",
+      "geography": [
+        "Vermont, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1760,
+          1954
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "birth",
+        "marriage",
+        "death",
+        "vital"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "index",
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/collection/1784223",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Town-clerk transcriptions; availability differs by town and year. Not all cards derive from original town records.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-1987653",
+      "name": "Vermont, Town Clerk, Vital and Town Records, 1732–2005",
+      "url": "https://www.familysearch.org/en/search/collection/1987653",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "Vermont, Town Clerk, Vital and Town Records, 1732–2005",
+      "geography": [
+        "Vermont, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1732,
+          2005
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "vital",
+        "birth",
+        "marriage",
+        "death"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "index",
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/collection/1987653",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-1803959",
+      "name": "United States Census, 1790",
+      "url": "https://www.familysearch.org/en/search/collection/1803959",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "United States Census, 1790",
+      "geography": [
+        "United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1790,
+          1790
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "census"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "index",
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": null,
+      "verification_source": "",
+      "verification_scope": [],
+      "link_health": "unknown",
+      "limitations": "Name index and household schedules; verify coverage.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "loc-news",
+      "name": "Chronicling America",
+      "url": "https://www.loc.gov/collections/chronicling-america/",
+      "kind": "collection",
+      "provider": "loc",
+      "description": "Chronicling America",
+      "geography": [
+        "United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "newspaper",
+        "obituary",
+        "marriage",
+        "legal notice"
+      ],
+      "capabilities": [
+        "full text",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.loc.gov/collections/chronicling-america/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "loc-sanborn",
+      "name": "Sanborn Maps",
+      "url": "https://www.loc.gov/collections/sanborn-maps/",
+      "kind": "collection",
+      "provider": "loc",
+      "description": "Sanborn Maps",
+      "geography": [
+        "United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "land",
+        "residence"
+      ],
+      "capabilities": [
+        "catalog",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.loc.gov/collections/sanborn-maps/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "loc-war",
+      "name": "Civil War Maps",
+      "url": "https://www.loc.gov/collections/civil-war-maps/",
+      "kind": "collection",
+      "provider": "loc",
+      "description": "Civil War Maps",
+      "geography": [
+        "United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "military",
+        "land"
+      ],
+      "capabilities": [
+        "catalog",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.loc.gov/collections/civil-war-maps/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "nara-1950",
+      "name": "1950 U.S. Census",
+      "url": "https://www.archives.gov/research/census/1950",
+      "kind": "collection",
+      "provider": "nara",
+      "description": "1950 U.S. Census",
+      "geography": [
+        "United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1950,
+          1950
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "census"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.archives.gov/research/census/1950",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "OCR name indexing can miss names. Browse enumeration districts when necessary.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "nara-freedmen",
+      "name": "Freedmen’s Bureau records",
+      "url": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+      "kind": "collection",
+      "provider": "nara",
+      "description": "Freedmen’s Bureau records",
+      "geography": [
+        "United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1865,
+          1872
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "marriage",
+        "employment",
+        "court",
+        "school"
+      ],
+      "capabilities": [
+        "catalog",
+        "browse images",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.archives.gov/research/african-americans/freedmens-bureau",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Coverage varies by office and series. Use the official guide to identify applicable records.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "blm-patents",
+      "name": "Federal land patents",
+      "url": "https://www.blm.gov/services/land-records/glo",
+      "kind": "collection",
+      "provider": "blm",
+      "description": "Federal land patents",
+      "geography": [
+        "United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "land",
+        "grant"
+      ],
+      "capabilities": [
+        "name index",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.blm.gov/services/land-records/glo",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Federal public-land records; not a general index of private deeds or all states.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "ma-archives",
+      "name": "Massachusetts Archives",
+      "url": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "kind": "repository",
+      "provider": "ma-archives",
+      "description": "Massachusetts Archives",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "vital",
+        "census",
+        "migration",
+        "probate"
+      ],
+      "capabilities": [
+        "catalog",
+        "onsite",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "state archives",
+      "archived": false
+    },
+    {
+      "id": "ma-vitals",
+      "name": "Massachusetts Archives vital records, 1841–1935",
+      "url": "https://www.sec.state.ma.us/divisions/archives/collections/vital-records.htm",
+      "kind": "collection",
+      "provider": "ma-archives",
+      "description": "Massachusetts Archives vital records, 1841–1935",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1841,
+          1935
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "birth",
+        "marriage",
+        "death",
+        "vital"
+      ],
+      "capabilities": [
+        "request",
+        "browse images"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free",
+          "paid retrieval"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.sec.state.ma.us/divisions/archives/collections/vital-records.htm",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Digital coverage is incomplete, especially recent transfers. Certified copies have separate conditions. Pre-1841 records are held by towns.",
+      "overlap_group": "ma-vitals",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fitchburg",
+      "name": "Fitchburg Public Library",
+      "url": "https://fitchburgma.gov/279/Genealogy",
+      "kind": "repository",
+      "provider": "fitchburg",
+      "description": "Fitchburg Public Library",
+      "geography": [
+        "Fitchburg, Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "newspaper",
+        "yearbook",
+        "directory"
+      ],
+      "capabilities": [
+        "onsite",
+        "catalog"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "library access"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://fitchburgma.gov/279/Genealogy",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Ancestry Library Edition is in-library only; individual digital collections have their own access rules.",
+      "overlap_group": "",
+      "repository_type": "public library",
+      "archived": false
+    },
+    {
+      "id": "fitch-yearbook",
+      "name": "Fitchburg High School — The Boulder",
+      "url": "https://fitchburgma.gov/279/Genealogy",
+      "kind": "collection",
+      "provider": "fitchburg",
+      "description": "Fitchburg High School — The Boulder",
+      "geography": [
+        "Fitchburg, Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1897,
+          2023
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "yearbook"
+      ],
+      "capabilities": [
+        "browse images"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://fitchburgma.gov/279/Genealogy",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Open the library page and select this named collection; links are not parameterized searches.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fitch-bernard",
+      "name": "St. Bernard’s High School — The Bernardian",
+      "url": "https://fitchburgma.gov/279/Genealogy",
+      "kind": "collection",
+      "provider": "fitchburg",
+      "description": "St. Bernard’s High School — The Bernardian",
+      "geography": [
+        "Fitchburg, Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1929,
+          2023
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "yearbook"
+      ],
+      "capabilities": [
+        "browse images"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://fitchburgma.gov/279/Genealogy",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Open the library page and select this named collection; links are not parameterized searches.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fitch-obit",
+      "name": "FPL Sentinel & Enterprise obituary index",
+      "url": "https://fitchburgma.gov/279/Genealogy",
+      "kind": "collection",
+      "provider": "fitchburg",
+      "description": "FPL Sentinel & Enterprise obituary index",
+      "geography": [
+        "Fitchburg, Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "obituary",
+        "newspaper"
+      ],
+      "capabilities": [
+        "name index"
+      ],
+      "evidence_forms": [
+        "index"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://fitchburgma.gov/279/Genealogy",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Open the library page and select this named collection; links are not parameterized searches.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "nh-vitals",
+      "name": "New Hampshire Vital Records Administration",
+      "url": "https://sos.nh.gov/archives-vital-records-records-management/vital-records-information/vital-records-administration",
+      "kind": "repository",
+      "provider": "nh-vitals",
+      "description": "New Hampshire Vital Records Administration",
+      "geography": [
+        "New Hampshire, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "vital"
+      ],
+      "capabilities": [
+        "onsite",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://sos.nh.gov/archives-vital-records-records-management/vital-records-information/vital-records-administration",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Official check blocked (503) on 2026-10-05; access and holdings need review.",
+      "overlap_group": "",
+      "repository_type": "state archives",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "nashua",
+      "name": "Nashua Public Library",
+      "url": "https://www.nashualibrary.org/230/Local-History-and-Genealogy",
+      "kind": "repository",
+      "provider": "nashua",
+      "description": "Nashua Public Library",
+      "geography": [
+        "Nashua, New Hampshire, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "newspaper",
+        "directory"
+      ],
+      "capabilities": [
+        "catalog",
+        "onsite"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.nashualibrary.org/230/Local-History-and-Genealogy",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "public library",
+      "archived": false
+    },
+    {
+      "id": "nashua-news",
+      "name": "Nashua newspaper archives",
+      "url": "https://www.nashualibrary.org/230/Local-History-and-Genealogy",
+      "kind": "collection",
+      "provider": "nashua",
+      "description": "Nashua newspaper archives",
+      "geography": [
+        "Nashua, New Hampshire, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1869,
+          null
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "newspaper",
+        "obituary"
+      ],
+      "capabilities": [
+        "full text"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "library access"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.nashualibrary.org/230/Local-History-and-Genealogy",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Library describes newspaper access from 1869; title gaps and eligibility require checking.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "vt-archives",
+      "name": "Vermont State Archives and Records Administration",
+      "url": "https://sos.vermont.gov/vsara/learn/state-vital-records-registry",
+      "kind": "repository",
+      "provider": "vt-archives",
+      "description": "Vermont State Archives and Records Administration",
+      "geography": [
+        "Vermont, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "vital",
+        "court",
+        "probate"
+      ],
+      "capabilities": [
+        "catalog",
+        "onsite",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://sos.vermont.gov/vsara/learn/state-vital-records-registry",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Official check blocked (403) on 2026-10-05. Verify holdings and access.",
+      "overlap_group": "",
+      "repository_type": "state archives",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "vhs",
+      "name": "Vermont Historical Society — Leahy Library",
+      "url": "https://vermonthistory.org/genealogy",
+      "kind": "repository",
+      "provider": "vhs",
+      "description": "Vermont Historical Society — Leahy Library",
+      "geography": [
+        "Vermont, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "family history",
+        "local history",
+        "manuscript"
+      ],
+      "capabilities": [
+        "catalog",
+        "onsite",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://vermonthistory.org/genealogy",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Not the repository for Vermont vital records or newspapers; use its genealogical and manuscript holdings.",
+      "overlap_group": "",
+      "repository_type": "historical society",
+      "archived": false
+    },
+    {
+      "id": "vhs-manuscripts",
+      "name": "Vermont Historical Society manuscripts",
+      "url": "https://vermonthistory.org/manuscripts",
+      "kind": "collection",
+      "provider": "vhs",
+      "description": "Vermont Historical Society manuscripts",
+      "geography": [
+        "Vermont, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "manuscript",
+        "family history",
+        "migration"
+      ],
+      "capabilities": [
+        "catalog",
+        "onsite"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://vermonthistory.org/manuscripts",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "worcester-deeds",
+      "name": "Worcester Registry of Deeds",
+      "url": "https://www.masslandrecords.com/Worcester/",
+      "kind": "repository",
+      "provider": "worcester-deeds",
+      "description": "Worcester Registry of Deeds",
+      "geography": [
+        "Worcester, Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "land",
+        "deed"
+      ],
+      "capabilities": [
+        "name index",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free"
+        ],
+        "images": [
+          "free"
+        ],
+        "copies": [
+          "free"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.masslandrecords.com/Worcester/",
+      "verification_scope": [
+        "link availability",
+        "repository identity and stated services",
+        "stated search, viewing and download access"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "registry of deeds",
+      "archived": false
+    },
+    {
+      "id": "nh-history",
+      "name": "New Hampshire Historical Society",
+      "url": "https://www.nhhistory.org/",
+      "kind": "repository",
+      "provider": "nh-history",
+      "description": "New Hampshire Historical Society",
+      "geography": [
+        "New Hampshire, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "manuscript",
+        "local history"
+      ],
+      "capabilities": [
+        "catalog",
+        "onsite",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.nhhistory.org/",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "historical society",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "ma-probate",
+      "name": "Massachusetts Probate and Family Court",
+      "url": "https://www.mass.gov/orgs/probate-and-family-court",
+      "kind": "repository",
+      "provider": "ma-probate",
+      "description": "Massachusetts Probate and Family Court",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "probate",
+        "will",
+        "guardianship"
+      ],
+      "capabilities": [
+        "request",
+        "onsite"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "Needs verification",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.mass.gov/orgs/probate-and-family-court",
+      "verification_scope": [
+        "Attempted official-page check; blocked, unavailable, or insufficient rendered content"
+      ],
+      "link_health": "unknown",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "probate court",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "boston-archdiocese",
+      "name": "Archives of the Archdiocese of Boston",
+      "url": "https://www.bostoncatholic.org/archives",
+      "kind": "repository",
+      "provider": "boston-archdiocese",
+      "description": "Archives of the Archdiocese of Boston",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "religious",
+        "baptism",
+        "marriage"
+      ],
+      "capabilities": [
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.bostoncatholic.org/archives",
+      "verification_scope": [
+        "link availability",
+        "repository identity and stated services"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "religious archives",
+      "archived": false
+    },
+    {
+      "id": "nashua-clerk",
+      "name": "Nashua City Clerk — genealogy research",
+      "url": "https://www.nashuanh.gov/207/Genealogy-Research",
+      "kind": "repository",
+      "provider": "nashua-clerk",
+      "description": "Nashua City Clerk — genealogy research",
+      "geography": [
+        "Nashua, New Hampshire, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "vital"
+      ],
+      "capabilities": [
+        "request",
+        "onsite"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.nashuanh.gov/207/Genealogy-Research",
+      "verification_scope": [
+        "link availability",
+        "repository identity and stated services"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "town clerk",
+      "archived": false
+    },
+    {
+      "id": "path-african-american",
+      "name": "African American research",
+      "url": "https://www.archives.gov/research/african-americans",
+      "kind": "guidance",
+      "provider": "",
+      "description": "Start with known people, places and dates; consult Freedmen’s Bureau field-office records and trace households across emancipation. Do not infer identity from a name.",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "guidance"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.archives.gov/research/african-americans",
+      "verification_scope": [
+        "official guidance reviewed"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "path-indigenous",
+      "name": "Indigenous research",
+      "url": "https://www.archives.gov/research/native-americans",
+      "kind": "guidance",
+      "provider": "",
+      "description": "Identify the relevant nation and jurisdiction from evidence; consult tribal and federal guidance. Archival records do not establish tribal citizenship.",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "guidance"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.archives.gov/research/native-americans",
+      "verification_scope": [
+        "official guidance reviewed"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "path-adoption",
+      "name": "Adoption research",
+      "url": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "kind": "guidance",
+      "provider": "",
+      "description": "Massachusetts starting point: distinguish recorded legal adoption from informal care. Use the relevant court or archive’s access guidance; records may be restricted.",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "guidance"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "verification_scope": [
+        "Official Adoptions guidance section reviewed"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "path-displacement",
+      "name": "Displacement research",
+      "url": "https://text-message.blogs.archives.gov/2022/01/27/state-records-relating-to-refugees-displaced-persons-relief-and-war-crimes-during-wwii-era-part-1/",
+      "kind": "guidance",
+      "provider": "nara",
+      "description": "World War II displacement starting point: NARA guidance to State Department refugee/relief files and finding aids. Establish the person’s route and dates before choosing a series; this is not a comprehensive name index.",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "guidance"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://text-message.blogs.archives.gov/2022/01/27/state-records-relating-to-refugees-displaced-persons-relief-and-war-crimes-during-wwii-era-part-1/",
+      "verification_scope": [
+        "official archivist guidance and described finding aids"
+      ],
+      "link_health": "available",
+      "limitations": "Primarily World War II era government records. Individual-file availability and privacy restrictions require archive review.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false,
+      "maintenance_notes": "Check attempted 2026-10-05. Automated access was inconclusive; not evidence that the resource is broken."
+    },
+    {
+      "id": "path-migration",
+      "name": "Migration research",
+      "url": "https://www.archives.gov/research/immigration",
+      "kind": "guidance",
+      "provider": "",
+      "description": "Work backward from the destination using passenger and naturalization records; compare original-language names and historical jurisdictions.",
+      "geography": [],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [],
+      "capabilities": [
+        "guidance"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.archives.gov/research/immigration",
+      "verification_scope": [
+        "official guidance reviewed"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "uvm",
+      "name": "University of Vermont — Silver Special Collections",
+      "url": "https://digitalcollections.uvm.edu/",
+      "kind": "repository",
+      "provider": "uvm",
+      "description": "University of Vermont — Silver Special Collections",
+      "geography": [
+        "Vermont, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "manuscript",
+        "local history",
+        "military"
+      ],
+      "capabilities": [
+        "catalog",
+        "full text"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://digitalcollections.uvm.edu/",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Digital subset of the library’s holdings; broader onsite holdings and access require consultation.",
+      "overlap_group": "",
+      "repository_type": "university special collections",
+      "archived": false
+    },
+    {
+      "id": "ma-passengers",
+      "name": "Boston passenger lists, 1848–1891",
+      "url": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "kind": "collection",
+      "provider": "ma-archives",
+      "description": "Boston passenger lists, 1848–1891",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1848,
+          1891
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "migration",
+        "passenger"
+      ],
+      "capabilities": [
+        "name index",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "State Port of Boston records; indexing is incomplete. Open the Passenger Lists section.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "ma-state-census",
+      "name": "Massachusetts state census schedules, 1855 & 1865",
+      "url": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "kind": "collection",
+      "provider": "ma-archives",
+      "description": "Massachusetts state census schedules, 1855 & 1865",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1855,
+          1855
+        ],
+        [
+          1865,
+          1865
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "census"
+      ],
+      "capabilities": [
+        "browse images",
+        "onsite"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "ma-suffolk-deeds",
+      "name": "Suffolk County deeds, 1629–1800",
+      "url": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "kind": "collection",
+      "provider": "ma-archives",
+      "description": "Suffolk County deeds, 1629–1800",
+      "geography": [
+        "Suffolk, Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1629,
+          1800
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "land",
+        "deed"
+      ],
+      "capabilities": [
+        "browse images",
+        "request"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "unknown"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.sec.state.ma.us/divisions/archives/research/family-history.htm",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Check locality, indexing, digitization and image-access restrictions before drawing conclusions.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "freebmd-index",
+      "name": "England & Wales civil registration index",
+      "url": "https://www.freebmd.org.uk/",
+      "kind": "collection",
+      "provider": "freebmd",
+      "description": "England & Wales civil registration index",
+      "geography": [
+        "England",
+        "Wales"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1837,
+          1999
+        ]
+      ],
+      "gaps": [],
+      "languages": [],
+      "writing_systems": [],
+      "record_types": [
+        "birth",
+        "marriage",
+        "death",
+        "vital"
+      ],
+      "capabilities": [
+        "name index"
+      ],
+      "evidence_forms": [
+        "unknown"
+      ],
+      "access": {
+        "search": [
+          "free"
+        ],
+        "images": [
+          "unknown"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.freebmd.org.uk/",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Volunteer transcription remains incomplete; index entries are not certificates.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "fs-worcester-probate",
+      "name": "Massachusetts, Worcester County, Probate Files, 1731–1925",
+      "url": "https://www.familysearch.org/en/search/collection/2102083",
+      "kind": "collection",
+      "provider": "familysearch",
+      "description": "Massachusetts, Worcester County, Probate Files, 1731–1925",
+      "geography": [
+        "Worcester, Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1731,
+          1925
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "probate",
+        "will",
+        "guardianship"
+      ],
+      "capabilities": [
+        "browse images"
+      ],
+      "evidence_forms": [
+        "original document image"
+      ],
+      "access": {
+        "search": [
+          "free account"
+        ],
+        "images": [
+          "free account",
+          "possible onsite restrictions"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://www.familysearch.org/en/search/collection/2102083",
+      "verification_scope": [
+        "link",
+        "stated description",
+        "stated coverage"
+      ],
+      "link_health": "available",
+      "limitations": "Image publication remains incremental. Browse file numbers and surnames; image eligibility may depend on account/location.",
+      "overlap_group": "",
+      "repository_type": "",
+      "archived": false
+    },
+    {
+      "id": "boston-sacraments",
+      "name": "Boston Archdiocese sacramental records, 1789–1920",
+      "url": "https://bostoncatholic.org/digital-collections",
+      "kind": "collection",
+      "provider": "american-ancestors",
+      "description": "Boston Archdiocese sacramental records, 1789–1920",
+      "geography": [
+        "Massachusetts, United States"
+      ],
+      "historical_jurisdictions": [],
+      "dates": [
+        [
+          1789,
+          1920
+        ]
+      ],
+      "gaps": [],
+      "languages": [
+        "English"
+      ],
+      "writing_systems": [],
+      "record_types": [
+        "baptism",
+        "marriage",
+        "religious"
+      ],
+      "capabilities": [
+        "browse images",
+        "name index"
+      ],
+      "evidence_forms": [
+        "original document image",
+        "index"
+      ],
+      "access": {
+        "search": [
+          "subscription"
+        ],
+        "images": [
+          "free account"
+        ],
+        "copies": [
+          "unknown"
+        ]
+      },
+      "integration": "outbound link",
+      "rights": "Unknown; check provider terms. Viewing does not grant redistribution rights.",
+      "verification": "coverage checked",
+      "last_checked": "2026-10-05",
+      "verification_source": "https://bostoncatholic.org/digital-collections",
+      "verification_scope": [
+        "official archive collection description",
+        "stated guest browsing and membership search routes"
+      ],
+      "link_health": "available",
+      "limitations": "Official archive page links to two databases: guest-account image browsing and member-only name searching. Parish/year digitization is incomplete.",
+      "overlap_group": "boston-sacraments",
+      "repository_type": "",
+      "archived": false
+    }
+  ]
+}

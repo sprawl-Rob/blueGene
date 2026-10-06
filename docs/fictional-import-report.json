@@ -1,0 +1,341 @@
+{
+  "counts": {
+    "person": 6,
+    "relationship": 7,
+    "assertion": 6,
+    "source": 2,
+    "citation": 2,
+    "repository": 1,
+    "media": 1,
+    "notes": 1
+  },
+  "version": "5.5.1",
+  "encoding": "utf-8-sig",
+  "warnings": [],
+  "unsupported": [
+    {
+      "tag": "_CUSTOM",
+      "line": 33,
+      "reason": "Raw preserved; not interpreted"
+    },
+    {
+      "tag": "_DETAIL",
+      "line": 34,
+      "reason": "Raw preserved; not interpreted"
+    }
+  ],
+  "hash": "253c67bb06bff145fa2f8713ef4d88292006db19ab25cdf58fe2dc8d335d1d10",
+  "parsing_failures": 0,
+  "field_accounting": {
+    "interpreted_nodes": 63,
+    "raw_only_nodes": 20,
+    "raw_only": [
+      {
+        "line": 1,
+        "record": null,
+        "path": "/HEAD",
+        "tag": "HEAD",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 2,
+        "record": null,
+        "path": "/HEAD/SOUR",
+        "tag": "SOUR",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 3,
+        "record": null,
+        "path": "/HEAD/SOUR/NAME",
+        "tag": "NAME",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 4,
+        "record": null,
+        "path": "/HEAD/GEDC",
+        "tag": "GEDC",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 5,
+        "record": null,
+        "path": "/HEAD/GEDC/VERS",
+        "tag": "VERS",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 6,
+        "record": null,
+        "path": "/HEAD/GEDC/FORM",
+        "tag": "FORM",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 7,
+        "record": null,
+        "path": "/HEAD/CHAR",
+        "tag": "CHAR",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 16,
+        "record": "@I1@",
+        "path": "/INDI/BIRT/SOUR/DATA",
+        "tag": "DATA",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 23,
+        "record": "@I1@",
+        "path": "/INDI/BIRT/SOUR/DATA",
+        "tag": "DATA",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 30,
+        "record": "@I1@",
+        "path": "/INDI/FAMS",
+        "tag": "FAMS",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 31,
+        "record": "@I1@",
+        "path": "/INDI/FAMS",
+        "tag": "FAMS",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 33,
+        "record": "@I1@",
+        "path": "/INDI/_CUSTOM",
+        "tag": "_CUSTOM",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 34,
+        "record": "@I1@",
+        "path": "/INDI/_CUSTOM/_DETAIL",
+        "tag": "_DETAIL",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 41,
+        "record": "@I2@",
+        "path": "/INDI/FAMS",
+        "tag": "FAMS",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 44,
+        "record": "@I3@",
+        "path": "/INDI/FAMS",
+        "tag": "FAMS",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 47,
+        "record": "@I4@",
+        "path": "/INDI/FAMS",
+        "tag": "FAMS",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 50,
+        "record": "@I5@",
+        "path": "/INDI/FAMS",
+        "tag": "FAMS",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 79,
+        "record": "@M1@",
+        "path": "/OBJE",
+        "tag": "OBJE",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 81,
+        "record": "@M1@",
+        "path": "/OBJE/FILE/FORM",
+        "tag": "FORM",
+        "status": "preserved raw only"
+      },
+      {
+        "line": 83,
+        "record": null,
+        "path": "/TRLR",
+        "tag": "TRLR",
+        "status": "preserved raw only"
+      }
+    ]
+  },
+  "profiles": [
+    {
+      "kind": "person",
+      "key": "@I1@",
+      "person": "@I1@",
+      "data": {
+        "name": "Eleanor Whitcomb",
+        "aliases": [
+          "Éléonore Whitcomb"
+        ],
+        "names_raw": [
+          {
+            "tag": "NAME",
+            "value": "Eleanor /Whitcomb/",
+            "xref": null,
+            "line": 9,
+            "children": [],
+            "_record": "@I1@"
+          },
+          {
+            "tag": "NAME",
+            "value": "Éléonore /Whitcomb/",
+            "xref": null,
+            "line": 10,
+            "children": [],
+            "_record": "@I1@"
+          }
+        ],
+        "living": "unknown",
+        "notes": [
+          "All names and assertions in this project are fictional."
+        ],
+        "persistent_ids": [],
+        "original_id": "@I1@",
+        "origin": {
+          "record": "@I1@",
+          "line": 8
+        },
+        "review": "unreviewed"
+      }
+    },
+    {
+      "kind": "person",
+      "key": "@I2@",
+      "person": "@I2@",
+      "data": {
+        "name": "Samuel Whitcomb",
+        "aliases": [],
+        "names_raw": [
+          {
+            "tag": "NAME",
+            "value": "Samuel /Whitcomb/",
+            "xref": null,
+            "line": 37,
+            "children": [],
+            "_record": "@I2@"
+          }
+        ],
+        "living": "unknown",
+        "notes": [],
+        "persistent_ids": [],
+        "original_id": "@I2@",
+        "origin": {
+          "record": "@I2@",
+          "line": 36
+        },
+        "review": "unreviewed"
+      }
+    },
+    {
+      "kind": "person",
+      "key": "@I3@",
+      "person": "@I3@",
+      "data": {
+        "name": "Ruth Alden",
+        "aliases": [],
+        "names_raw": [
+          {
+            "tag": "NAME",
+            "value": "Ruth /Alden/",
+            "xref": null,
+            "line": 43,
+            "children": [],
+            "_record": "@I3@"
+          }
+        ],
+        "living": "unknown",
+        "notes": [],
+        "persistent_ids": [],
+        "original_id": "@I3@",
+        "origin": {
+          "record": "@I3@",
+          "line": 42
+        },
+        "review": "unreviewed"
+      }
+    },
+    {
+      "kind": "person",
+      "key": "@I4@",
+      "person": "@I4@",
+      "data": {
+        "name": "Thomas Hale",
+        "aliases": [],
+        "names_raw": [
+          {
+            "tag": "NAME",
+            "value": "Thomas /Hale/",
+            "xref": null,
+            "line": 46,
+            "children": [],
+            "_record": "@I4@"
+          }
+        ],
+        "living": "unknown",
+        "notes": [],
+        "persistent_ids": [],
+        "original_id": "@I4@",
+        "origin": {
+          "record": "@I4@",
+          "line": 45
+        },
+        "review": "unreviewed"
+      }
+    },
+    {
+      "kind": "person",
+      "key": "@I5@",
+      "person": "@I5@",
+      "data": {
+        "name": "Morgan Vale",
+        "aliases": [],
+        "names_raw": [
+          {
+            "tag": "NAME",
+            "value": "Morgan /Vale/",
+            "xref": null,
+            "line": 49,
+            "children": [],
+            "_record": "@I5@"
+          }
+        ],
+        "living": "unknown",
+        "notes": [],
+        "persistent_ids": [],
+        "original_id": "@I5@",
+        "origin": {
+          "record": "@I5@",
+          "line": 48
+        },
+        "review": "unreviewed"
+      }
+    }
+  ],
+  "preservation": "Every raw record, hierarchy, line number and original byte stream retained. Only mapped fields are interpreted; inspect Raw provenance for all others.",
+  "container": "GEDCOM",
+  "uninterpreted_policy": "All raw fields retained; supported semantic fields listed in docs/import-compatibility.md.",
+  "missing_files": [
+    "media/notebook.txt"
+  ],
+  "ambiguous_files": [],
+  "unsafe_media": [],
+  "matched_files": 0,
+  "unused_files": [],
+  "original_file_hash": "253c67bb06bff145fa2f8713ef4d88292006db19ab25cdf58fe2dc8d335d1d10",
+  "bundle_hash": "253c67bb06bff145fa2f8713ef4d88292006db19ab25cdf58fe2dc8d335d1d10"
+}

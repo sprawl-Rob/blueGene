@@ -1,0 +1,83 @@
+0 HEAD
+1 SOUR BLUEGENE_SYNTHETIC
+2 NAME Fictional acceptance fixture — not real family history
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Eleanor /Whitcomb/
+1 NAME Éléonore /Whitcomb/
+1 BIRT
+2 DATE ABT 1840
+2 PLAC Fitchburg, Worcester, Massachusetts, United States
+2 SOUR @S1@
+3 PAGE Fictional page 12
+3 DATA
+4 TEXT The fictional notebook says “about 1840.”
+1 BIRT
+2 DATE 1842
+2 PLAC Fitchburg, Worcester, Massachusetts, United States
+2 SOUR @S2@
+3 PAGE Fictional entry 8
+3 DATA
+4 TEXT A second fictional note gives 1842.
+1 RESI
+2 DATE BET 1865 AND 1875
+2 PLAC Nashua, New Hampshire, United States
+1 FAMC @F1@
+2 PEDI adopted
+1 FAMS @F2@
+1 FAMS @F3@
+1 NOTE All names and assertions in this project are fictional.
+1 _CUSTOM Preserve this unsupported field
+2 _DETAIL <script>alert('untrusted')</script>
+1 OBJE @M1@
+0 @I2@ INDI
+1 NAME Samuel /Whitcomb/
+1 BIRT
+2 DATE BEF 1815
+2 PLAC Vermont, United States
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Ruth /Alden/
+1 FAMS @F1@
+0 @I4@ INDI
+1 NAME Thomas /Hale/
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Morgan /Vale/
+1 FAMS @F3@
+0 @I6@ INDI
+1 NAME Ada /Hale/
+1 FAMC @F2@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I1@
+1 CHIL @I6@
+1 MARR
+2 DATE 1860
+2 PLAC Massachusetts, United States
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I1@
+1 MARR
+2 DATE AFT 1870
+0 @S1@ SOUR
+1 TITL Fictional Whitcomb family notebook
+1 AUTH Demonstration author
+1 REPO @R1@
+0 @S2@ SOUR
+1 TITL Fictional town-register extract
+1 REPO @R1@
+0 @R1@ REPO
+1 NAME Imaginary local archive
+0 @M1@ OBJE
+1 FILE media/notebook.txt
+2 FORM text
+1 TITL Fictional notebook transcription — deliberately missing
+0 TRLR

@@ -1,0 +1,25 @@
+{
+  "dataset": {
+    "people": 10000,
+    "assertions": 50000,
+    "gedcom_bytes": 3988962,
+    "synthetic": true
+  },
+  "platform": "macOS-26.7.1-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "logical_cpus": 10,
+  "python": "3.14.3",
+  "timings_seconds": {
+    "parse_and_preview": 0.5122,
+    "commit": 3.3991,
+    "person_search": 0.0262,
+    "person_navigation": 0.0001,
+    "backup": 0.9577,
+    "backup_validation": 1.28,
+    "restore": 0.6718
+  },
+  "hardware": "Hardware name unavailable in sandbox",
+  "hardware_note": "Some sysctl queries blocked in sandbox",
+  "backup_bytes": 6974587,
+  "restored_person_links_verified": true
+}
